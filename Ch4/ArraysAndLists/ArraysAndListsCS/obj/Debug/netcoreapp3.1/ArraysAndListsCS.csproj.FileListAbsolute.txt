@@ -1,0 +1,27 @@
+C:/Users/Joe/Desktop/ExerciseFiles/Ch4/ArraysAndLists/ArraysAndListsCS/bin/Debug/netcoreapp3.1/ArraysAndListsCS.exe
+C:/Users/Joe/Desktop/ExerciseFiles/Ch4/ArraysAndLists/ArraysAndListsCS/bin/Debug/netcoreapp3.1/ArraysAndListsCS.deps.json
+C:/Users/Joe/Desktop/ExerciseFiles/Ch4/ArraysAndLists/ArraysAndListsCS/bin/Debug/netcoreapp3.1/ArraysAndListsCS.runtimeconfig.json
+C:/Users/Joe/Desktop/ExerciseFiles/Ch4/ArraysAndLists/ArraysAndListsCS/bin/Debug/netcoreapp3.1/ArraysAndListsCS.runtimeconfig.dev.json
+C:/Users/Joe/Desktop/ExerciseFiles/Ch4/ArraysAndLists/ArraysAndListsCS/bin/Debug/netcoreapp3.1/ArraysAndListsCS.dll
+C:/Users/Joe/Desktop/ExerciseFiles/Ch4/ArraysAndLists/ArraysAndListsCS/bin/Debug/netcoreapp3.1/ArraysAndListsCS.pdb
+C:/Users/Joe/Desktop/ExerciseFiles/Ch4/ArraysAndLists/ArraysAndListsCS/obj/Debug/netcoreapp3.1/ArraysAndListsCS.csprojAssemblyReference.cache
+C:/Users/Joe/Desktop/ExerciseFiles/Ch4/ArraysAndLists/ArraysAndListsCS/obj/Debug/netcoreapp3.1/ArraysAndListsCS.AssemblyInfoInputs.cache
+C:/Users/Joe/Desktop/ExerciseFiles/Ch4/ArraysAndLists/ArraysAndListsCS/obj/Debug/netcoreapp3.1/ArraysAndListsCS.AssemblyInfo.cs
+C:/Users/Joe/Desktop/ExerciseFiles/Ch4/ArraysAndLists/ArraysAndListsCS/obj/Debug/netcoreapp3.1/ArraysAndListsCS.csproj.CoreCompileInputs.cache
+C:/Users/Joe/Desktop/ExerciseFiles/Ch4/ArraysAndLists/ArraysAndListsCS/obj/Debug/netcoreapp3.1/ArraysAndListsCS.dll
+C:/Users/Joe/Desktop/ExerciseFiles/Ch4/ArraysAndLists/ArraysAndListsCS/obj/Debug/netcoreapp3.1/ArraysAndListsCS.pdb
+C:/Users/Joe/Desktop/ExerciseFiles/Ch4/ArraysAndLists/ArraysAndListsCS/obj/Debug/netcoreapp3.1/ArraysAndListsCS.genruntimeconfig.cache
+/Users/Juliana/Projects/GitHub/Python_C_Dev/Exercise Files/Ch4/ArraysAndLists/ArraysAndListsCS/bin/Debug/netcoreapp3.1/ArraysAndListsCS
+/Users/Juliana/Projects/GitHub/Python_C_Dev/Exercise Files/Ch4/ArraysAndLists/ArraysAndListsCS/bin/Debug/netcoreapp3.1/ArraysAndListsCS.deps.json
+/Users/Juliana/Projects/GitHub/Python_C_Dev/Exercise Files/Ch4/ArraysAndLists/ArraysAndListsCS/bin/Debug/netcoreapp3.1/ArraysAndListsCS.runtimeconfig.json
+/Users/Juliana/Projects/GitHub/Python_C_Dev/Exercise Files/Ch4/ArraysAndLists/ArraysAndListsCS/bin/Debug/netcoreapp3.1/ArraysAndListsCS.runtimeconfig.dev.json
+/Users/Juliana/Projects/GitHub/Python_C_Dev/Exercise Files/Ch4/ArraysAndLists/ArraysAndListsCS/bin/Debug/netcoreapp3.1/ArraysAndListsCS.dll
+/Users/Juliana/Projects/GitHub/Python_C_Dev/Exercise Files/Ch4/ArraysAndLists/ArraysAndListsCS/bin/Debug/netcoreapp3.1/ArraysAndListsCS.pdb
+/Users/Juliana/Projects/GitHub/Python_C_Dev/Exercise Files/Ch4/ArraysAndLists/ArraysAndListsCS/obj/Debug/netcoreapp3.1/ArraysAndListsCS.csproj.AssemblyReference.cache
+/Users/Juliana/Projects/GitHub/Python_C_Dev/Exercise Files/Ch4/ArraysAndLists/ArraysAndListsCS/obj/Debug/netcoreapp3.1/ArraysAndListsCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Juliana/Projects/GitHub/Python_C_Dev/Exercise Files/Ch4/ArraysAndLists/ArraysAndListsCS/obj/Debug/netcoreapp3.1/ArraysAndListsCS.AssemblyInfoInputs.cache
+/Users/Juliana/Projects/GitHub/Python_C_Dev/Exercise Files/Ch4/ArraysAndLists/ArraysAndListsCS/obj/Debug/netcoreapp3.1/ArraysAndListsCS.AssemblyInfo.cs
+/Users/Juliana/Projects/GitHub/Python_C_Dev/Exercise Files/Ch4/ArraysAndLists/ArraysAndListsCS/obj/Debug/netcoreapp3.1/ArraysAndListsCS.csproj.CoreCompileInputs.cache
+/Users/Juliana/Projects/GitHub/Python_C_Dev/Exercise Files/Ch4/ArraysAndLists/ArraysAndListsCS/obj/Debug/netcoreapp3.1/ArraysAndListsCS.dll
+/Users/Juliana/Projects/GitHub/Python_C_Dev/Exercise Files/Ch4/ArraysAndLists/ArraysAndListsCS/obj/Debug/netcoreapp3.1/ArraysAndListsCS.pdb
+/Users/Juliana/Projects/GitHub/Python_C_Dev/Exercise Files/Ch4/ArraysAndLists/ArraysAndListsCS/obj/Debug/netcoreapp3.1/ArraysAndListsCS.genruntimeconfig.cache

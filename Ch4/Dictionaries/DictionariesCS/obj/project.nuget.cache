@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Gnq/idoeRsjSHHcuDb5K5PUex9NjzNwPMuJscuRyiES5HaoYRpb5DuQ2bzR+WrCqTki3KIQVVg2vLQ5KlQIqg==",
+  "success": true,
+  "projectFilePath": "/Users/Juliana/Projects/GitHub/Python_C_Dev/Exercise Files/Ch4/Dictionaries/DictionariesCS/DictionariesCS.csproj",
+  "expectedPackageFiles": [
+    "/Users/Juliana/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

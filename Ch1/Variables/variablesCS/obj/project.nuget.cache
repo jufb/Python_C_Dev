@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CBbkh5fLBEM6rMr5VYMgp5OQD1pCE12EzIz1acdEZTH91GBE45hMJ3aBCMF/ffQQmIRnRvi2mhPu4B5YKsNT4w==",
+  "success": true,
+  "projectFilePath": "/Users/Juliana/Projects/GitHub/Python_C_Dev/Exercise Files/Ch1/Variables/variablesCS/variablesCS.csproj",
+  "expectedPackageFiles": [
+    "/Users/Juliana/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

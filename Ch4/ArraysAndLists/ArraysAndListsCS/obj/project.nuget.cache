@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mDnIjtgehajQVmuikXQfjlkDR24uXYok2dK/koeCRUZTb5UP+tttEkjBpOQQcH8sLzmWWJTScGvp0JhsXIUOAA==",
+  "success": true,
+  "projectFilePath": "/Users/Juliana/Projects/GitHub/Python_C_Dev/Exercise Files/Ch4/ArraysAndLists/ArraysAndListsCS/ArraysAndListsCS.csproj",
+  "expectedPackageFiles": [
+    "/Users/Juliana/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

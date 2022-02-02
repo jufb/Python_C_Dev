@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LGIIu1Z3ezGCE6Fr1zshiIT3SKPXhmvKUQInd1m4ZK2PjYP9Kv26IiQ0YJsfMjj2EvbnjxOfesepn2ioRYs8Yw==",
+  "success": true,
+  "projectFilePath": "/Users/Juliana/Projects/GitHub/Python_C_Dev/Exercise Files/Ch1/Conditionals/ConditionalsCS/ConditionalsCS.csproj",
+  "expectedPackageFiles": [
+    "/Users/Juliana/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

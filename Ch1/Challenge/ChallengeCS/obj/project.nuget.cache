@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d3GcOpfYB+PZtXotarsgR+04yGtQVhqtS/TXBFCwWKAGcd+ry3ZDyWYtGk/wFtsLkazKqIbct7/E2OwUrsL6iQ==",
+  "success": true,
+  "projectFilePath": "/Users/Juliana/Projects/GitHub/Python_C_Dev/Exercise Files/Ch1/Challenge/ChallengeCS/ChallengeCS.csproj",
+  "expectedPackageFiles": [
+    "/Users/Juliana/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
